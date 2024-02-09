@@ -1,0 +1,5 @@
+I struggled with getting this one to be responsive due to the many images that needed to be position: relative/absolute. And I really didn't like having to do a different nav and sections for the mobile and the desktop size - I know it is ok for these challenges BUT I want to think ahead - in my future when I start creating websites for real-life - updating both the mobile version and the desktop version is not ideal. I did make a copy of this one and tried to accomplish this by using - picture- source for the images but I just couldn't get them to work properly and I ended up with one big mess!
+
+So I am going to spend some time now researching and following some front-end gurus - like Kevin Powell and Scrimba so that I can master this.
+
+Also - it has to be said - I must go back to - JS toggle-school. I know am writing too much code for something that should be just a line or 2 using .toggle. For this and a good brush up on JS in general - I will go back to some JS tutorials/projects from Wes Bos, Florin Pop and John Smilga.
